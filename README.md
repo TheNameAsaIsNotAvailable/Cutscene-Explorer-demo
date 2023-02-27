@@ -1,4 +1,4 @@
-# Cutscene Explorer demo (2022)
+# 'Cutscene Explorer demo' (2022)
 A mod for Mafia: The City of Lost Heaven (2002).
 
 *<sub>Freeze and walk around inside cutscenes (this proof-of-concept contains only the restaurant ambush).</sub>*
