@@ -17,7 +17,7 @@ CONFIG BUTTONS:
 7. [The Palermo Clubbing] Clears your inventory and randomly generates one of three possible weapon sets (melee, firearm or explosive).
 
 NOTES:
-- You can start-stop-start a cinematic at will, but it will always restart from the beginning.
+- You can start-stop-start a cinematic at will, but it will always restart from the beginning (no way around this, sorry).
 - Sadly, particle effects cannot be frozen in the same way as the rest of the scene. _:(_
 - Let me know of any bugs, thanks for testing and back-up your files, please!
 
