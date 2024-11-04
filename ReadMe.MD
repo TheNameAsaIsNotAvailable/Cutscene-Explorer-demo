@@ -18,7 +18,7 @@ CONFIG BUTTONS:
 
 NOTES:
 - You can repeat this process at will, but doing so will always restart a cinematic from the beginning.
-- Sadly, particle effects cannot be frozen in the same way as the rest of the scene.
+- Sadly, particle effects cannot be frozen in the same way as the rest of the scene. _:(_
 - I'm hoping to add more scenes in future, but it's unlikely I'll make it through them all.
 - Let me know of any bugs, thanks for testing and back-up your files, please!
 
