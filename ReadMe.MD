@@ -12,8 +12,8 @@ CONFIG BUTTONS:
 2. [Player Visibility] Toggles your visibility for both gameplay and cinematics. Note that this includes your shadow, but not that of any unholstered weapons. On by default.
 3. [Traffic] Toggles any vehicle and pedestrian traffic in the level. Off by default.
 4. [Police] Toggles any police presence in the level. Off by default.
-5. [Cutscene Car Function] Toggles the functionality of any cutscene cars after a cinematic is exited. Note that the toggle setting applies to the *next* time a cinematic is run. Off by default.
-6. [Particles] Toggles the continuation of any particle effects (smoke, gunfire, etc.) after a cinematic is exited. Note that while some particles loop indefinitely, others play once and disappear. Off by default.
+5. [Cutscene Car Function] Toggles the functionality of any 'cutscene-only' cars for use afterwards. Note that the toggle setting will apply to the *next* time a cinematic is run. Off by default.
+6. [Particles] Toggles the continuation of any particle effects (smoke, gunfire, etc.) after a cinematic is exited. Note that while some particles loop indefinitely, others play once and then disappear. Off by default.
 7. [The Palermo Clubbing] Clears your inventory and randomly generates one of three possible weapon sets (melee, firearm or explosive).
 
 NOTES:
