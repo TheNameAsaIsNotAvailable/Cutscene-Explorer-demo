@@ -4,14 +4,14 @@ A mod for Mafia: The City of Lost Heaven (2002).
 INSTRUCTIONS:
 - Select 'Cutscene Explorer demo' from the Main Menu, and inside the phonebox choose a scene to load
 - Each scene has 7 configuration buttons that can be found nearby (see below)
-- Press the Objectives key (F1 by default) to begin the cutscene
-- Use the same key again at any time to freeze and exit the cinematic
+- Press the Objectives key (F1 by default) to begin a cinematic
+- Use the same key again at any time to freeze and exit a cinematic
 
 NOTES:
-- You can repeat this process at will, but doing so will always reload the cutscene back at the beginning in its default state
-- Sadly, particle effects cannot be frozen, so instead you have the option of switching them on/off
-- I hope to implement more cutscenes in future, but it's unlikely I'll be able to get through them all
-- Let me know or any bugs, thanks for testing and back-up your files, please!
+- You can repeat this process at will, but doing so will always restart a cinematic from the beginning
+- Sadly, particle effects cannot be frozen in the same way as the rest of the scene
+- I'm hoping to add more scenes in future, but it's unlikely I'll make it through them all
+- Let me know of any bugs, thanks for testing and back-up your files, please!
 
 CONFIG BUTTONS:
 1. [Reset Scene] Reloads the level (for cleaning up decals, glitched objects, etc.).
