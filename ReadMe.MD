@@ -2,10 +2,10 @@
 A mod for Mafia: The City of Lost Heaven (2002).
 
 INSTRUCTIONS:
-- Select 'Cutscene Explorer demo' from the Main Menu, and inside the phonebox choose a scene to load
-- Each scene has 7 configuration buttons that can be found nearby (see below)
-- Press the Objectives key (F1 by default) to begin a cinematic
-- Use the same key again at any time to freeze and exit a cinematic
+- Select 'Cutscene Explorer demo' from the Main Menu, and inside the phonebox choose a scene to load.
+- Each scene has 7 configuration buttons that can be found nearby (see below).
+- Press the Objectives key (F1 by default) to begin a cinematic.
+- Use the same key again at any time to freeze and exit a cinematic.
 
 CONFIG BUTTONS:
 1. [Reset Scene] Reloads the level (for cleaning up decals, glitched objects, etc.).
@@ -17,9 +17,9 @@ CONFIG BUTTONS:
 7. [The Palermo Clubbing] Clears your inventory and randomly generates one of three possible weapon sets (melee, firearm or explosive).
 
 NOTES:
-- You can repeat this process at will, but doing so will always restart a cinematic from the beginning
-- Sadly, particle effects cannot be frozen in the same way as the rest of the scene
-- I'm hoping to add more scenes in future, but it's unlikely I'll make it through them all
+- You can repeat this process at will, but doing so will always restart a cinematic from the beginning.
+- Sadly, particle effects cannot be frozen in the same way as the rest of the scene.
+- I'm hoping to add more scenes in future, but it's unlikely I'll make it through them all.
 - Let me know of any bugs, thanks for testing and back-up your files, please!
 
 ![Game 2023-02-28 10-48-24-55](https://user-images.githubusercontent.com/111624709/221832453-0e1536d7-d813-4815-8f5c-8da0c04420d0.png)
