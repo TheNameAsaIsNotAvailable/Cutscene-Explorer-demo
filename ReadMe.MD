@@ -15,7 +15,7 @@ NOTES:
 
 CONFIG BUTTONS:
 1. [Reset Scene] Reloads the level (for cleaning up decals, glitched objects, etc.).
-2. [Player Visibility] Toggles your visibility for both gameplay and cinematics. Note that this includes your shadow, but not the shadow of unholstered weapons. On by default.
+2. [Player Visibility] Toggles your visibility for both gameplay and cinematics. Note that this includes your shadow, but not that of any unholstered weapons. On by default.
 3. [Traffic] Toggles any vehicle and pedestrian traffic in the level. Off by default.
 4. [Police] Toggles any police presence in the level. Off by default.
 5. [Cutscene Car Function] Toggles the functionality of any cutscene cars after a cinematic is exited. Note that the toggle applies to the *next* time a cinematic is run. Off by default.
