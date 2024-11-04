@@ -19,7 +19,6 @@ CONFIG BUTTONS:
 NOTES:
 - You can start-stop-start a cinematic at will, but it will always restart from the beginning.
 - Sadly, particle effects cannot be frozen in the same way as the rest of the scene. _:(_
-- I'm hoping to add more scenes in future, but it's unlikely I'll make it through them all.
 - Let me know of any bugs, thanks for testing and back-up your files, please!
 
 ![Game 2023-02-28 10-48-24-55](https://user-images.githubusercontent.com/111624709/221832453-0e1536d7-d813-4815-8f5c-8da0c04420d0.png)
