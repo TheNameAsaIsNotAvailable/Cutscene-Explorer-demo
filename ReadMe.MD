@@ -2,7 +2,7 @@
 A mod for Mafia: The City of Lost Heaven (2002).
 
 INSTRUCTIONS:
-- Select 'Cutscene Explorer demo' from the Main Menu, and inside the phone booth choose a scene to load.
+- Select **Cutscene Explorer demo** from the Main Menu, and inside the phone booth choose a scene to load.
 - Each scene has 7 configuration buttons that can be found nearby (see below).
 - Press the Objectives key (F1 by default) to begin a cinematic.
 - Use the same key again, at any time, to freeze and exit the cinematic.
