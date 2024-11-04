@@ -7,12 +7,6 @@ INSTRUCTIONS:
 - Press the Objectives key (F1 by default) to begin a cinematic
 - Use the same key again at any time to freeze and exit a cinematic
 
-NOTES:
-- You can repeat this process at will, but doing so will always restart a cinematic from the beginning
-- Sadly, particle effects cannot be frozen in the same way as the rest of the scene
-- I'm hoping to add more scenes in future, but it's unlikely I'll make it through them all
-- Let me know of any bugs, thanks for testing and back-up your files, please!
-
 CONFIG BUTTONS:
 1. [Reset Scene] Reloads the level (for cleaning up decals, glitched objects, etc.).
 2. [Player Visibility] Toggles your visibility for both gameplay and cinematics. Note that this includes your shadow, but not that of unholstered weapons. On by default.
@@ -21,6 +15,12 @@ CONFIG BUTTONS:
 5. [Cutscene Car Function] Toggles the functionality of any cutscene cars after a cinematic is exited. Note that the toggle setting applies to the *next* time a cinematic is run. Off by default.
 6. [Particles] Toggles the continuation of any particle effects (smoke, gunfire, etc.) after a cinematic is exited. Note that while some particles loop indefinitely, others play once and disappear. Off by default.
 7. [The Palermo Clubbing] Clears your inventory and randomly generates one of three possible weapon sets (melee, firearm or explosive).
+
+NOTES:
+- You can repeat this process at will, but doing so will always restart a cinematic from the beginning
+- Sadly, particle effects cannot be frozen in the same way as the rest of the scene
+- I'm hoping to add more scenes in future, but it's unlikely I'll make it through them all
+- Let me know of any bugs, thanks for testing and back-up your files, please!
 
 ![Game 2023-02-28 10-48-24-55](https://user-images.githubusercontent.com/111624709/221832453-0e1536d7-d813-4815-8f5c-8da0c04420d0.png)
 
