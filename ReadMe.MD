@@ -18,9 +18,8 @@ CONFIG BUTTONS:
 
 KNOWN BUGS:
 - Game crashes if CS is started with player in a CS car
-- (15g) Player anim blending temporarily breaks during first anim transition after load-in
-- (15g) Tom's car bounces like a lowrider when CS is started
-- (15g) Frequent pop-in
+- (15g) Tom's car bounces when CS is started
+- (15g) Distant pop-in
 - (15g) Jittery human anim seams in CS
 
 NOTES:
