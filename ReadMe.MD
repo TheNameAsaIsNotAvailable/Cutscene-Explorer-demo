@@ -12,9 +12,16 @@ CONFIG BUTTONS:
 2. [Player Visibility] Toggles your visibility for both gameplay and cinematics. Note that this includes your shadow, but not that of any unholstered weapons. On by default.
 3. [Traffic] Toggles any vehicle and pedestrian traffic in the level. Off by default.
 4. [Police] Toggles any police presence in the level. Off by default.
-5. [Cutscene Car Function] Toggles the functionality of any 'cutscene-only' cars for use afterwards. Note that the toggle setting will apply to the *next* time a cinematic is run. Off by default.
+5. [Cutscene Car Function] Toggles the functionality of any 'cutscene-only' cars for use afterwards. Note that the toggle setting applies to the *next* time a cinematic is run. Off by default.
 6. [Particles] Toggles the continuation of any particle effects (smoke, gunfire, etc.) after a cinematic is exited. Note that while some particles loop indefinitely, others play once and then disappear. Off by default.
 7. [The Palermo Clubbing] Clears your inventory and randomly generates one of three possible weapon sets (melee, firearm or explosive).
+
+KNOWN BUGS:
+- Game crashes if CS is started with player in a CS car
+- (15g) Player anim blending temporarily breaks during first anim transition after load-in
+- (15g) Tom's car bounces like a lowrider when CS is started
+- (15g) Frequent pop-in
+- (15g) Jittery human anim seams in CS
 
 NOTES:
 - You can start-stop-start a cinematic at will, but it will always restart from the beginning (no way around this, sorry).
