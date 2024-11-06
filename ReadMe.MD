@@ -19,11 +19,11 @@ CONFIG BUTTONS:
 KNOWN BUGS:
 - Game crashes if CS is started with player in a CS car
 - (15g) Tom's car bounces when CS is started
-- (15g) Distant pop-in
+- (15g) Distant scenery pop-in
 - (15g) Jittery human anim seams in CS
 
 NOTES:
-- You can start-stop-start a cinematic at will, but it will always restart from the beginning (no way around this, sorry).
+- You can start/stop a cinematic at will, but it will always restart from the beginning (no way around this, sorry).
 - Sadly, particle effects cannot be frozen in the same way as the rest of the scene. _:(_
 - Let me know of any bugs, thanks for testing and back-up your files, please!
 
