@@ -18,10 +18,9 @@ CONFIG BUTTONS:
 7. [The Palermo Clubbing] Clears your inventory and randomly generates one of two possible weapon sets (melee & explosive or firearm).
 
 KNOWN BUGS:
-- Game crashes if CS is started with player in a CS car
 - (15g) Tom's car bounces when CS is started
-- (15g) Distant scenery pop-in
-- (15g) Jittery human anim seams in CS
+- (15g) Distant scenery pop-in - native?
+- (15g) Jittery human anim seams in CS - native?
 
 NOTES:
 - You can start/stop a cinematic at will, but it will always restart from the beginning (no way around this, sorry).
