@@ -6,7 +6,7 @@ INSTRUCTIONS:
 - Each has 7 configuration buttons that can be found nearby (see below).
 - Press the Objectives key (F1 by default) to start a cinematic.
 - Use the same key again, at any time, to freeze and exit the cinematic.
-- Use the wall-mounted phone in each mission to return you to the Scene Selector phone.
+- Use the wall-mounted phone in each mission to return to the Scene Selector phone.
 
 CONFIG BUTTONS:
 1. [Reset Scene] Reloads the level (for cleaning up decals, glitched objects, etc.).
