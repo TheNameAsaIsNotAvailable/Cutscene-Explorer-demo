@@ -3,9 +3,9 @@ A mod for Mafia: The City of Lost Heaven (2002).
 
 INSTRUCTIONS:
 - Select **Scene Selector** from the Main Menu, and inside the phone booth choose a mission to load.
-- Each has 7 configuration buttons that can be found nearby (see below).
-- Press the Objectives key (F1 by default) to start a cinematic.
-- Use the same key again to freeze and exit the cinematic.
+- Each mission has 7 configuration buttons that can be found nearby (see below).
+- Use the Objectives key (F1 by default) to start a cutscene.
+- Use the same key again to freeze and exit a cutscene.
 - Use the wall-mounted phone in each mission to return to the Scene Selector.
 
 CONFIG BUTTONS:
@@ -25,7 +25,7 @@ KNOWN BUGS:
 NOTES:
 - You can start/stop a cinematic at will, but it will always restart from the beginning (no way around this, sorry).
 - Sadly, particle effects cannot be frozen in the same way as the rest of the scene. _:(_
-- Let me know of any undocumented bugs, thanks for testing and back-up your files, please!
+- Let me know of any undocumented bugs, thanks for testing and back-up your files!
 
 ![Game 2023-02-28 10-48-24-55](https://user-images.githubusercontent.com/111624709/221832453-0e1536d7-d813-4815-8f5c-8da0c04420d0.png)
 
