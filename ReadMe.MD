@@ -15,7 +15,7 @@ CONFIG BUTTONS:
 4. [Police] Toggles any police presence in the level. Off by default.
 5. [Cutscene Car Function] Toggles the functionality of any 'cutscene-only' cars, for use afterwards. Note that the toggle setting applies to the *next* time a cinematic is run. Off by default.
 6. [Particles] Toggles the continuation of any particle effects (smoke, gunfire, etc.) after a cinematic is exited. Note that while some particles loop indefinitely, others play once and then disappear. Off by default.
-7. [The Palermo Clubbing] Clears your inventory and randomly generates one of two possible weapon sets (melee & explosive or firearm).
+7. [The Palermo Clubbing] Clears your inventory and randomly generates one of two possible weapon sets (melee & explosive, or firearm).
 
 KNOWN BUGS:
 - (15g) Tom's car bounces when CS is started
