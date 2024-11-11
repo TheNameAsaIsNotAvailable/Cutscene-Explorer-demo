@@ -12,7 +12,7 @@ CONFIG BUTTONS:
 1. [Reset Scene] Reloads the level (for cleaning up decals, glitched objects, etc.).
 2. [Player Visibility] Toggles your visibility, for both gameplay and cinematics. Note that this includes your shadow, but not that of any unholstered weapons. On by default.
 3. [Traffic] Toggles any vehicle and pedestrian traffic in the level. Off by default.
-4. [Police] Toggles any police presence in the level. Off by default.
+4. [Police] Toggles any police presence in the level. Off by default. Not currently enabled (work in progress).
 5. [Cutscene Car Function] Toggles the functionality of any 'cutscene-only' cars, for use afterwards. Note that the toggle setting applies to the *next* time a cinematic is run. Off by default.
 6. [Particles] Toggles the continuation of any particle effects (smoke, gunfire, etc.) after a cinematic is exited. Note that while some particles loop indefinitely, others play once and then disappear. Off by default.
 7. [The Palermo Clubbing] Clears your inventory and randomly generates one of two possible weapon sets (melee & explosive, or firearm).
@@ -25,7 +25,7 @@ KNOWN BUGS:
 NOTES:
 - You can start/stop a cinematic at will, but it will always restart from the beginning (no way around this, sorry).
 - Sadly, particle effects cannot be frozen in the same way as the rest of the scene. _:(_
-- Let me know of any bugs, thanks for testing and back-up your files, please!
+- Let me know of any undocumented bugs, thanks for testing and back-up your files, please!
 
 ![Game 2023-02-28 10-48-24-55](https://user-images.githubusercontent.com/111624709/221832453-0e1536d7-d813-4815-8f5c-8da0c04420d0.png)
 
