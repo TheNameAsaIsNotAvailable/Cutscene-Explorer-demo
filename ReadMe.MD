@@ -11,13 +11,14 @@ INSTRUCTIONS:
 CONFIG BUTTONS:
 1. [Reset Scene] Reloads the level (for cleaning up decals, glitched objects, etc.).
 2. [Player Visibility] Toggles player visibility, for both gameplay and cutscenes. Note that this affects your shadow, but not that of any unholstered weapons. On by default.
-3. [Traffic] Toggles any vehicle and pedestrian traffic in the level. Off by default.
+3. [Traffic] Toggles any vehicle and pedestrian traffic in the level. On by default.
 4. [Police] Toggles any police presence in the level. Off by default (and not currently implemented).
 5. [Cutscene Car Function] Toggles the functionality of any 'cutscene-only' cars, for use afterwards. Note that the toggle setting applies to the *next* time a cutscene is run. Off by default.
 6. [Particles] Toggles the continuation of any particle effects (smoke, gunfire, etc.) after a cutscene is exited. Note that while some particles loop indefinitely, others play once and then disappear. Off by default.
 7. [The Palermo Clubbing] Clears the player's inventory, and randomly generates one of two possible weapon sets (melee & explosive, or firearm).
 
-KNOWN BUGS:
+KNOWN ISSUES:
+- (General) 'Switched off' pedestrians are invisible, but retain their collision and interactivity
 - (15g) Tom's car bounces when CS is started
 - (15g) Distant scenery pop-in - native?
 - (15g) Jittery human anim seams in CS - native?
