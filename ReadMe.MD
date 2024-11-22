@@ -18,16 +18,16 @@ CONFIG BUTTONS:
 7. [The Palermo Clubbing] Clears the player's inventory, and randomly generates one of two possible weapon sets (melee & explosive, or firearm).
 
 KNOWN ISSUES:
-- (General) Deactivated peds are invisible but keep their cols and interactivity
-- (Main Menu) Projector SFX starts before anim can
-- (15g) Tom's car 'bounces' whenever CS is started
-- (15g) Distant scenery pop-in - native?
-- (15g) Obvious seams in human anim changes during CS - native?
+- (General) Deactivated peds are invisible but keep their collisions and interactivity
+- (Main Menu) Projector SFX starts at profile selection stage, before model anim can
+- (15G) Lowrider hydraulics on Tom's car when CS begins
+- (15G) Distant scenery pop-in with no cache/occluder changes
+- (15G) Obvious seams on human anim changes during CS
 
 NOTES:
 - You can start/stop a cutscene at will, but it will always restart from the beginning (no way around this, sorry).
 - Sadly, particle effects cannot be frozen in the same way as the rest of the scene. _:(_
-- All button configurations revert to their defaults after a level change or reload (this is to synchronise their function across levels)
+- All button configurations will revert to their defaults after a level change or reload (this is to synchronise their function across levels).
 - Let me know of any undocumented bugs, thanks for testing and back-up your files!
 
 ![Game 2023-02-28 10-48-24-55](https://user-images.githubusercontent.com/111624709/221832453-0e1536d7-d813-4815-8f5c-8da0c04420d0.png)
