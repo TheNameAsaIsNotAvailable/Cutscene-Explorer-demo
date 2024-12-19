@@ -2,11 +2,11 @@
 A mod for Mafia: The City of Lost Heaven (2002).
 
 INSTRUCTIONS:
-- Select **Scene Selector** from the Main Menu, and inside the phone booth choose a mission to load.
-- Each mission has 7 configuration buttons that can be found nearby (see below).
+- Select **Scene Selector** from the Main Menu, and inside the phone booth choose a level to load.
+- Most levels have 7 configuration buttons that can be found nearby (see below).
 - Use the Objectives key (F1 by default) to start a cutscene.
 - Use the same key again to freeze and exit a cutscene.
-- Use the wall-mounted phone in each mission to return to the Scene Selector.
+- Use the wall-mounted phone in each level to load a different one.
 
 CONFIG BUTTONS:
 1. [Reset Scene] Reloads the level (for cleaning up decals, glitched objects, etc.).
