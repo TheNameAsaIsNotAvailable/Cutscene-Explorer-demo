@@ -20,16 +20,17 @@ CONFIG BUTTONS:
 KNOWN ISSUES:
 - {General} Deactivated peds are invisible but keep their collisions and interactivity
 - {Main Menu} Projector SFX starts at profile selection stage (before model anim can)
-- {08c} Particles deactivate when cutscene is unloaded, regardless of button config (FX button temporarily disabled)
+- {08c} Particles deactivate when cutscene is unloaded, regardless of button config (FX button has been temporarily disabled)
 - {15g} Lowrider hydraulics on Tom's car when CS begins
 - {15g} Distant scenery pop-in with no cache/occluder changes
 - {15g} Obvious seams on human anim changes during CS
-- {20b} Particles remain active when cutscene is unloaded, regardless of button config (FX button temporarily disabled)
+- {20b} Particles remain active when cutscene is unloaded, regardless of button config (FX button has been temporarily disabled)
 
 NOTES:
 - You can start/stop a cutscene at will, but it will always restart from the beginning (no way around this, sorry).
 - Sadly, particle effects cannot be frozen in the same way as the rest of the scene. _:(_
 - All button configurations will revert to their defaults after a level change or reload (this is to synchronise their function across levels).
+- Because this demo is a work in progress, there are bugs, unfinished/non-functional buttons (most levels) and missing buttons (01a).
 - Let me know of any undocumented bugs, thanks for testing and back-up your files!
 
 ![Game 2023-02-28 10-48-24-55](https://user-images.githubusercontent.com/111624709/221832453-0e1536d7-d813-4815-8f5c-8da0c04420d0.png)
