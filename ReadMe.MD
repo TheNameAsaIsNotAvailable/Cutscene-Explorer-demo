@@ -19,10 +19,12 @@ CONFIG BUTTONS:
 
 KNOWN ISSUES:
 - (General) Deactivated peds are invisible but keep their collisions and interactivity
-- (Main Menu) Projector SFX starts at profile selection stage, before model anim can
-- (15G) Lowrider hydraulics on Tom's car when CS begins
-- (15G) Distant scenery pop-in with no cache/occluder changes
-- (15G) Obvious seams on human anim changes during CS
+- (Main Menu) Projector SFX starts at profile selection stage (before model anim can)
+- (08c) Particles deactivate when cutscene is unloaded, regardless of button config
+- (15g) Lowrider hydraulics on Tom's car when CS begins
+- (15g) Distant scenery pop-in with no cache/occluder changes
+- (15g) Obvious seams on human anim changes during CS
+- (20b) Particles remain active when cutscene is unloaded, regardless of button config
 
 NOTES:
 - You can start/stop a cutscene at will, but it will always restart from the beginning (no way around this, sorry).
