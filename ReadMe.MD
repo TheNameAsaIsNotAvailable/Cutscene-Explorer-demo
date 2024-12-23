@@ -19,6 +19,7 @@ CONFIG BUTTONS:
 
 KNOWN ISSUES:
 - {General} Deactivated peds are invisible but keep their collisions and interactivity
+- {General} Mission list on the phone panel is sometimes in the wrong order when loaded from another mission
 - {Main Menu} Projector SFX starts at profile selection stage (before model anim can)
 - {08c} Particles deactivate when cutscene is unloaded, regardless of button config (FX button has been temporarily disabled)
 - {15g} Lowrider hydraulics on Tom's car when CS begins
