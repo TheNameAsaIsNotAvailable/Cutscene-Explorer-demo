@@ -34,7 +34,7 @@ NOTES:
 - Sadly, particle effects cannot be frozen in the same way as the rest of the scene. _:(_
 - All button configurations will revert to their defaults after a level change or reload (this is to synchronise their function across levels).
 - Because this demo is a work in progress, there are bugs, unfinished/non-functional buttons (most levels) and missing buttons (01a).
-- Let me know of any undocumented bugs, thanks for testing and back-up your files!
+- Let me know of any undocumented bugs, thanks for testing and back-up your files & savegames!
 
 ![Game 2023-02-28 10-48-24-55](https://user-images.githubusercontent.com/111624709/221832453-0e1536d7-d813-4815-8f5c-8da0c04420d0.png)
 
