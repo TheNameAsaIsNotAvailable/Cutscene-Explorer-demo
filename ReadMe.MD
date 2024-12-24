@@ -19,7 +19,7 @@ CONFIG BUTTONS:
 
 KNOWN ISSUES:
 - {General} Deactivated peds are invisible but keep their collisions and interactivity
-- {General} Mission list on the phone panel is sometimes in the wrong order when loaded from another mission
+- {General} Phone panel mission list is sometimes in the wrong order
 - {General} Unfinished/non-functional buttons (most levels) and missing buttons (01a)
 - {Main Menu} Projector SFX starts at profile selection stage (before model anim can)
 - {Main Menu} Projector SFX can drop out when returning from certain menus
