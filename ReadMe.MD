@@ -21,7 +21,9 @@ KNOWN ISSUES:
 - {General} Deactivated peds are invisible but keep their collisions and interactivity
 - {General} Mission list on the phone panel is sometimes in the wrong order when loaded from another mission
 - {Main Menu} Projector SFX starts at profile selection stage (before model anim can)
+- {01a} Starting a cutscene with player in a cutscene car produces a crash
 - {08c} Particles deactivate when cutscene is unloaded, regardless of button config (FX button has been temporarily disabled)
+- {13b} Starting a cutscene with player in a cutscene car produces a crash
 - {15g} Lowrider hydraulics on Tom's car when CS begins
 - {15g} Distant scenery pop-in with no cache/occluder changes
 - {15g} Obvious seams on human anim changes during CS
