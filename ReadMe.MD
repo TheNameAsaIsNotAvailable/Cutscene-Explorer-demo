@@ -33,9 +33,10 @@ NOTES:
 - You can start/stop a cutscene at will, but it will always restart from the beginning (no way around this, sorry).
 - Sadly, particle effects cannot be frozen in the same way as the rest of the scene. _:(_
 - All button configurations will revert to their defaults after a level change or reload (this is to synchronise their function across levels).
+- This was designed to be run in 16:9 without the Widescreen Fix. Running it with the fix applied (or in 4:3) will work, but menu text will extend beyond menu backgrounds.
 - Because this demo is a work in progress, there are bugs, unfinished/non-functional buttons (most levels) and missing buttons (01a).
 - Let me know of any undocumented bugs, thanks for testing and back-up your files & savegames!
 
 ![Game 2023-02-28 10-48-24-55](https://user-images.githubusercontent.com/111624709/221832453-0e1536d7-d813-4815-8f5c-8da0c04420d0.png)
 
-~ AsaSK
+~ AsaSK (thenameasaisnotavailable)
