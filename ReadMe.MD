@@ -20,10 +20,13 @@ CONFIG BUTTONS:
 KNOWN ISSUES:
 - {General} Deactivated peds are invisible but keep their collisions and interactivity
 - {General} Mission list on the phone panel is sometimes in the wrong order when loaded from another mission
+- {General} Unfinished/non-functional buttons (most levels) and missing buttons (01a)
 - {Main Menu} Projector SFX starts at profile selection stage (before model anim can)
+- {Main Menu} Projector SFX can drop out when returning from certain menus
 - {01a} Starting a cutscene with player in a cutscene car produces a crash
 - {08c} Particles deactivate when cutscene is unloaded, regardless of button config (FX button has been temporarily disabled)
 - {13b} Starting a cutscene with player in a cutscene car produces a crash
+- {13b} The restaurant front door can be walked through
 - {15g} Lowrider hydraulics on Tom's car when CS begins
 - {15g} Distant scenery pop-in with no cache/occluder changes
 - {15g} Obvious seams on human anim changes during CS
@@ -34,7 +37,6 @@ NOTES:
 - Sadly, particle effects cannot be frozen in the same way as the rest of the scene. _:(_
 - All button configurations will revert to their defaults after a level change or reload (this is to synchronise their function across levels).
 - This was designed to be run in 16:9 without the Widescreen Fix. Running it with the fix applied (or in 4:3) will work, but menu text will extend beyond menu backgrounds.
-- Because this demo is a work in progress, there are bugs, unfinished/non-functional buttons (most levels) and missing buttons (01a).
 - Let me know of any undocumented bugs, thanks for testing and back-up your files & savegames!
 
 ![Game 2023-02-28 10-48-24-55](https://user-images.githubusercontent.com/111624709/221832453-0e1536d7-d813-4815-8f5c-8da0c04420d0.png)
